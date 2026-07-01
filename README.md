@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets1/Github_main_banner.gif" width="100%" alt="Deepak Mudiraj Banner"/>
+<img src="./assets1/GitBanner.gif" width="100%" alt="Deepak Mudiraj Banner"/>
 
 # 👋 Hi, I'm Attem Deepak Mudiraj
 
