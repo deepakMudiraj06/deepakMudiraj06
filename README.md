@@ -1,8 +1,4 @@
-```md
-<!-- ========================================= -->
-<!--  ADD YOUR CUSTOM BANNER HERE             -->
-<!--  Place banner at: assets/banner.png      -->
-<!-- ========================================= -->
+
 
 <div align="center">
 
