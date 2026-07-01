@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets1/assets1/Premium professional animated GitHub banner for Data Analyst. Dark navy blue and black gradient background with subtle cyan highlights. Main title _ATTEM DEEPAK MUDIRAJ_ in bold modern white sans-serif font promine.mp4.png" width="100%" alt="Deepak Mudiraj Banner"/>
+<img src="./assets1/assets1/banner1.png" width="100%" alt="Deepak Mudiraj Banner"/>
 
 # 👋 Hi, I'm Attem Deepak Mudiraj
 
