@@ -1,3 +1,9 @@
+```md
+<!-- ========================================= -->
+<!--  ADD YOUR CUSTOM BANNER HERE             -->
+<!--  Place banner at: assets/banner.png      -->
+<!-- ========================================= -->
+
 <div align="center">
 
 <img src="./assets1/banner.png" width="100%" alt="Deepak Mudiraj Banner"/>
@@ -6,16 +12,7 @@
 
 ### 🚀 MCA (Data Science) | Data Analytics | Machine Learning Enthusiast
 
-</div>
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A8A,100:2563EB&text=Attem%20Deepak%20Mudiraj&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Data%20Analytics%20|%20Data%20Science%20|%20Machine%20Learning&descAlignY=60&descSize=18"/>
-
-# 👋 Hi, I'm Attem Deepak Mudiraj
-
-### 🚀 MCA (Data Science) | Data Analytics | Machine Learning Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Data+Analytics+Enthusiast;Machine+Learning+Developer;Power+BI+%26+SQL+Learner;Building+Data-Driven+Solutions;Always+Learning+and+Growing+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Data+Analytics+Enthusiast;Machine+Learning+Developer;Power+BI+Developer;Building+Data-Driven+Solutions;Always+Learning+and+Growing+🚀"/>
 
 <br>
 
@@ -35,11 +32,11 @@
 
 ## 💫 About Me
 
-💡 Passionate about transforming data into actionable insights and building intelligent solutions using Data Science and Machine Learning.
+💡 Passionate about transforming data into actionable insights and building intelligent solutions using **Data Analytics, Machine Learning, and Artificial Intelligence**.
 
-🎓 Currently pursuing **MCA (Data Science)** with interests in Data Analytics, Business Intelligence, Computer Vision, and AI applications.
+🎓 Currently pursuing **MCA (Data Science)** with interests in **Business Intelligence, Data Visualization, Computer Vision, and AI Applications**.
 
-🌱 Exploring **Power BI, SQL, Machine Learning, Deep Learning, LLMs, and MLOps**.
+🌱 Exploring **Power BI, SQL, Machine Learning, Deep Learning, Large Language Models, and MLOps**.
 
 🚀 Always learning, building, and improving through real-world projects.
 
@@ -49,7 +46,7 @@
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,r,mysql"/>
 
@@ -57,13 +54,15 @@
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
+<br><br>
+
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
-### ⚙️ Tools
+### ⚙️ Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
@@ -74,24 +73,34 @@
 ## 🚀 Featured Projects
 
 ### 👗 Fashion Recommendation System
+
 - Built using **ResNet50, VGG16, and Vision Transformer (ViT)**
-- Achieved **95.09% accuracy** with ResNet50
+- Achieved **95.09% accuracy** using ResNet50
 - Recommended Top-5 visually similar fashion products
 
+---
+
 ### 🎧 Wildlife Species Classification (BirdCLEF 2026)
+
 - Generated Mel Spectrograms from wildlife audio
-- Applied CNN-based deep learning models
+- Applied CNN-based Deep Learning models
 - Worked on real-world biodiversity datasets
 
+---
+
 ### 🗺️ Bengaluru Route Optimization System
-- Implemented **A*** and **Dijkstra Algorithms**
+
+- Implemented **A\*** and **Dijkstra Algorithms**
 - Estimated shortest paths and travel times
 - Built intelligent route optimization solutions
 
+---
+
 ### ✍️ LinkedIn Post Generator using LLMs
+
 - Utilized NLP and Large Language Models
 - Automated professional content generation
-- Improved productivity through AI
+- Improved productivity using AI
 
 ---
 
@@ -145,7 +154,4 @@
 **Transforming Data into Insights & Intelligent Solutions 🚀**
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,50:1E3A8A,100:2563EB"/>
-
 ```
