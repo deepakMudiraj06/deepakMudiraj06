@@ -1,4 +1,12 @@
+<div align="center">
 
+<img src="./assets1/banner.png" width="100%" alt="Deepak Mudiraj Banner"/>
+
+# 👋 Hi, I'm Attem Deepak Mudiraj
+
+### 🚀 MCA (Data Science) | Data Analytics | Machine Learning Enthusiast
+
+</div>
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A8A,100:2563EB&text=Attem%20Deepak%20Mudiraj&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Data%20Analytics%20|%20Data%20Science%20|%20Machine%20Learning&descAlignY=60&descSize=18"/>
