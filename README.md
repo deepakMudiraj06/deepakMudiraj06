@@ -111,6 +111,8 @@ Responsive banking dashboard interface focused on a modern frontend experience.
 
 `React` `JavaScript` `HTML` `CSS`
 
+[Live demo](https://cyber-bank06.netlify.app/)
+
 ## Internship
 
 ### United Network of Professionals (UNP) — Data Science Intern
