@@ -6,7 +6,9 @@
 
 <br>
 
-<img src="./portfolio-assets/typing-animation.svg" alt="Data Science Enthusiast, AI/ML, Python Developer" width="88%">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=58&lines=Data+Science+Enthusiast;Aspiring+Data+Analyst;Machine+Learning+Developer;AI+Enthusiast;Python+Developer" alt="Animated professional headline" width="88%">
+
+<sub>Static fallback: <a href="./portfolio-assets/typing-animation.svg">typing card</a></sub>
 
 <br><br>
 
