@@ -1,12 +1,12 @@
 <div align="center">
 
 <a href="https://github.com/deepakMudiraj06">
-  <img src="./assets/hero-banner.svg" alt="Hello, I'm Deepak Mudiraj — Data Science, Artificial Intelligence, and Machine Learning" width="100%">
+  <img src="./portfolio-assets/hero-banner.svg" alt="Hello, I'm Deepak Mudiraj — Data Science, Artificial Intelligence, and Machine Learning" width="100%">
 </a>
 
 <br>
 
-<img src="./assets/typing-animation.svg" alt="Data Science Enthusiast, AI/ML, Python Developer" width="88%">
+<img src="./portfolio-assets/typing-animation.svg" alt="Data Science Enthusiast, AI/ML, Python Developer" width="88%">
 
 <br><br>
 
@@ -20,7 +20,7 @@
 
 </div>
 
-<img src="./assets/section-divider.svg" alt="" width="100%">
+<img src="./portfolio-assets/section-divider.svg" alt="" width="100%">
 
 ## `01` — About Me
 
@@ -53,7 +53,7 @@ FOCUS
 </tr>
 </table>
 
-<img src="./assets/section-divider.svg" alt="" width="100%">
+<img src="./portfolio-assets/section-divider.svg" alt="" width="100%">
 
 ## `02` — Technical Arsenal
 
@@ -100,7 +100,7 @@ FOCUS
 ![Git](https://img.shields.io/badge/Git-080B16?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-080B16?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="./assets/section-divider.svg" alt="" width="100%">
+<img src="./portfolio-assets/section-divider.svg" alt="" width="100%">
 
 ## `03` — Selected Work
 
@@ -185,7 +185,7 @@ Modern responsive banking dashboard interface with a focused frontend experience
 </tr>
 </table>
 
-<img src="./assets/section-divider.svg" alt="" width="100%">
+<img src="./portfolio-assets/section-divider.svg" alt="" width="100%">
 
 ## `04` — Experience
 
@@ -199,7 +199,7 @@ Modern responsive banking dashboard interface with a focused frontend experience
 | Analysis | Exploratory Data Analysis |
 | Modeling | Machine Learning implementation |
 
-<img src="./assets/section-divider.svg" alt="" width="100%">
+<img src="./portfolio-assets/section-divider.svg" alt="" width="100%">
 
 ## `05` — Education
 
@@ -224,7 +224,7 @@ Modern responsive banking dashboard interface with a focused frontend experience
 </tr>
 </table>
 
-<img src="./assets/section-divider.svg" alt="" width="100%">
+<img src="./portfolio-assets/section-divider.svg" alt="" width="100%">
 
 ## `06` — GitHub Analytics
 
@@ -256,7 +256,7 @@ The workflow at [`.github/workflows/snake.yml`](./.github/workflows/snake.yml) g
 
 <sub>If the asset is not visible yet, run the workflow manually once from the repository’s Actions tab.</sub>
 
-<img src="./assets/section-divider.svg" alt="" width="100%">
+<img src="./portfolio-assets/section-divider.svg" alt="" width="100%">
 
 ## `07` — Let’s Connect
 
